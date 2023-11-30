@@ -5,7 +5,7 @@ Custom unbranded created all content, layout, logo, and idea.<br>
 
 ![](email-preview-promotional-fullview.jpeg)
 
-- Live Site URL: [Add live site URL here](https://ryoshi1001.github.io/CryptoCurrency-Promotional-Email/)
+- Live Site URL: [(https://ryoshi1001.github.io/CryptoCurrency-Promotional-Email/)]
 
 Built with:
 - HTML5 
